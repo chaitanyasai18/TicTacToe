@@ -1,1 +1,1 @@
-#This is a java code to play TicTacToe
+#This is a java code that demonstrates the game TicTacToe
